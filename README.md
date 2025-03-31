@@ -12,7 +12,9 @@ Frontend Engineer with 4+ years of experience specializing in building high-perf
 - Optimized the performance of the client application by increasing the download speed by 40%
 
 💬 Contact: 
+
 LinkedIn: https://www.linkedin.com/in/robotasmr/
+
 Telegram: https://t.me/robotasmr
 <!---
 Vasejke/Vasejke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
